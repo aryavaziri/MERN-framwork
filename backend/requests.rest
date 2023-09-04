@@ -1,0 +1,9 @@
+GET http://localhost:3000/auth
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0ZjMzM2VmODg1ZjljNmVkZTM1ODk4YyIsImlhdCI6MTY5MzY2MDc1NiwiZXhwIjoxNjkzNjY0MzU2fQ.yLAVEqNPG8TYU2nPWNoxugT_ubXnGjd5qj4yPSgFUII
+
+###
+GET http://localhost:3000/auth
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0ZjIzMmZlZGFiYzJkN2RkZjRlZmI3NSIsImlhdCI6MTY5MzY1ODYzMSwiZXhwIjoxNjkzNjYyMjMxfQ.wB_Azp7mIv-Ra2aKz6PBW3uwCliispvkoubDpzgSdus
+###
+GET http://localhost:3000/auth
+# Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0ZjIzMmZlZGFiYzJkN2RkZjRlZmI3NSIsImlhdCI6MTY5MzY1ODYzMSwiZXhwIjoxNjkzNjYyMjMxfQ.wB_Azp7mIv-Ra2aKz6PBW3uwCliispvkoubDpzgSdus

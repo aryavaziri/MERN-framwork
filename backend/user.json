@@ -1,0 +1,32 @@
+{
+  "provider": "google",
+  "sub": "102443378849050726835",
+  "id": "102443378849050726835",
+  "displayName": "Arya Vaziri",
+  "name": { "givenName": "Arya", "familyName": "Vaziri" },
+  "given_name": "Arya",
+  "family_name": "Vaziri",
+  "email_verified": true,
+  "verified": true,
+  "language": "en",
+  "email": "arya.vaziri@gmail.com",
+  "emails": [{ "value": "arya.vaziri@gmail.com", "type": "account" }],
+  "photos": [
+    {
+      "value": "https://lh3.googleusercontent.com/a/AAcHTtdXXZcEulyWKK4IWUu05bQw8VR5wEhe2yqfzuXR_zH6ILA=s96-c",
+      "type": "default"
+    }
+  ],
+  "picture": "https://lh3.googleusercontent.com/a/AAcHTtdXXZcEulyWKK4IWUu05bQw8VR5wEhe2yqfzuXR_zH6ILA=s96-c",
+  "_raw": "{\n  \"sub\": \"102443378849050726835\",\n  \"name\": \"Arya Vaziri\",\n  \"given_name\": \"Arya\",\n  \"family_name\": \"Vaziri\",\n  \"picture\": \"https://lh3.googleusercontent.com/a/AAcHTtdXXZcEulyWKK4IWUu05bQw8VR5wEhe2yqfzuXR_zH6ILA\\u003ds96-c\",\n  \"email\": \"arya.vaziri@gmail.com\",\n  \"email_verified\": true,\n  \"locale\": \"en\"\n}",
+  "_json": {
+    "sub": "102443378849050726835",
+    "name": "Arya Vaziri",
+    "given_name": "Arya",
+    "family_name": "Vaziri",
+    "picture": "https://lh3.googleusercontent.com/a/AAcHTtdXXZcEulyWKK4IWUu05bQw8VR5wEhe2yqfzuXR_zH6ILA=s96-c",
+    "email": "arya.vaziri@gmail.com",
+    "email_verified": true,
+    "locale": "en"
+  }
+}
